@@ -1,1 +1,1 @@
-ECHO is on.
+"wersja 2 - druga zmiana"
